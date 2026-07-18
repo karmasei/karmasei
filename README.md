@@ -7,8 +7,14 @@
 - Aprendiendo Machine Learning y Deep Learning
 - Disfruto de editar y diseñar en digital
 
-## Tecnologías
+## 🔧 Mis Hard Skills:
+- Python, POO, algoritmos
+- Telegram, pyrogram
+- PyGame
+- Flask, API
+- SQLite
 
+## Tecnologías
 ###  Lenguajes
 - Python
 - SQL
